@@ -22,7 +22,6 @@
 <a href="https://twitter.com/rahulkalsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulkalsha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahul-kalsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kalsha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20469882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20469882" height="30" width="40" /></a>
-<a href="https://www.upwork.com/workwith/rahulk262" target="blank">![Work with me](https://img.shields.io/badge/Work%20with%20me-Ready%20for%20new%20challenges!-success)</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
