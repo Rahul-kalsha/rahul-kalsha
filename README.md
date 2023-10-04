@@ -3,29 +3,26 @@
 
 <p align="left"> <a href="https://twitter.com/rahulkalsha" target="blank"><img src="https://img.shields.io/twitter/follow/rahulkalsha?logo=twitter&style=for-the-badge" alt="rahulkalsha" /></a> </p>
 
-- 🔭 I’m currently working on **MarketTime B2B**
+- 🌱 Currently exploring the world of **web development** with a focus on **Frontend technologies**.
 
-- 🌱 I’m currently learning **React**
+- 👯 I’m open to exciting collaborations in the world of **Angular** and **React** development.
 
-- 👯 I’m looking to collaborate on **Angular/React Development**
+- 🕒 With over **6+ years of Angular experience**, I'm here to bring your ideas to life.
 
-- 🕒 Angular Experience? **5+ Years**
+- 💼 You can **work with me** on exciting projects through [Upwork](https://www.upwork.com/workwith/rahulk262).
 
-- 👨‍💻 All of my projects are available at [https://contra.com/rahul_kalsha](https://contra.com/rahul_kalsha)
+- 👨‍💻 Check out my portfolio at [https://contra.com/rahul_kalsha](https://contra.com/rahul_kalsha) to see my recent projects.
 
-- 💬 Ask me about **Angular, JavaScript, TypeScript**
+- 💬 Feel free to reach out to me if you have questions about **Angular, JavaScript, or TypeScript**.
 
-- 📫 How to reach me **kalsarahul@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KvqME7wwLR4svJZrrf8qyGCkGiOdCxpz/view?usp=drive_link](https://drive.google.com/file/d/1KvqME7wwLR4svJZrrf8qyGCkGiOdCxpz/view?usp=drive_link)
-
-- 🚀 Rapid Language Learner **I conquer new languages in a month.**
+- 📫 You can get in touch with me via email: **kalsarahul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rahulkalsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulkalsha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahul-kalsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kalsha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20469882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20469882" height="30" width="40" /></a>
+<a href="https://www.upwork.com/workwith/rahulk262" target="blank">![Work with me](https://img.shields.io/badge/Work%20with%20me-Ready%20for%20new%20challenges!-success)</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
