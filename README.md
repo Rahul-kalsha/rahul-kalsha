@@ -9,7 +9,7 @@
 
 - 🕒 With over **6+ years of Angular experience**, I'm here to bring your ideas to life.
 
-- 💼 You can **work with me** on exciting projects through [Upwork](https://www.upwork.com/workwith/rahulk262).
+- 💼 You can **work with me** on exciting projects through [Upwork](https://www.upwork.com/workwith/rkalsha).
 
 - 👨‍💻 Check out my portfolio at [https://contra.com/rahul_kalsha](https://contra.com/rahul_kalsha) to see my recent projects.
 
