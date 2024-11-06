@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rahulkalsha" target="blank"><img src="https://img.shields.io/twitter/follow/rahulkalsha?logo=twitter&style=for-the-badge" alt="rahulkalsha" /></a> </p>
 
-- 🌱 Currently exploring the world of **web development** with a focus on **Frontend technologies**.
+- 🌱 Currently exploring the world of **Web App Development** with a focus on **Frontend technologies**.
 
 - 👯 I’m open to exciting collaborations in the world of **Angular** and **React** development.
 
