@@ -7,7 +7,7 @@
 
 - 👯 I’m open to exciting collaborations in the world of **Angular** and **React** development.
 
-- 🕒 With over **8+ years of Angular experience**, I'm here to bring your ideas to life.
+- 🕒 With over **7+ years of Angular experience**, I'm here to bring your ideas to life.
 
 - 💼 You can **work with me** on exciting projects through [Upwork](https://www.upwork.com/workwith/rkalsha).
 
